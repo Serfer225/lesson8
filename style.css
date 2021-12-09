@@ -1,0 +1,19 @@
+body {
+    background-color: mintcream;
+}
+h1 {
+    text-align: center;
+}
+.text img {
+    max-width: 100%;
+}
+.text_1 {
+    width: 400px;
+    height: 200px;
+    background-color: orangered;
+    overflow: auto;
+}
+.fa-child {
+    color: blueviolet;
+    font-size: 50px;
+}
